@@ -52,8 +52,9 @@ $main = "main.scss"
 
 #Import strings
 
-$importValues = @("@Import ""base/base"";", "@Import ""base/animations"";", "@Import ""base/typography"";", "@Import ""base/utilites"";", "@Import ""abstracts/functions"";",
-"@Import ""abstracts/mixins"";", "@Import ""abstracts/variables"";", "@Import ""pages/home"";")
+$importValues = @("@Import ""abstracts/functions"";","@Import ""abstracts/mixins"";", "@Import ""abstracts/variables"";", 
+
+"@Import ""base/animations"";", "@Import ""base/base"";", "@Import ""base/typography"";", "@Import ""base/utilites"";", "@Import ""pages/home"";")
 
 
 #Create folders
