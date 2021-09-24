@@ -52,9 +52,9 @@ $main = "main.scss"
 
 #Import strings
 
-$importValues = @("@Import ""abstracts/functions"";","@Import ""abstracts/mixins"";", "@Import ""abstracts/variables"";", 
+$importValues = @("@import ""abstracts/functions"";","@import ""abstracts/mixins"";", "@import ""abstracts/variables"";", 
 
-"@Import ""base/animations"";", "@Import ""base/base"";", "@Import ""base/typography"";", "@Import ""base/utilites"";", "@Import ""pages/home"";")
+"@import ""base/animations"";", "@import ""base/base"";", "@import ""base/typography"";", "@import ""base/utilites"";", "@import ""pages/home"";")
 
 
 #Create folders
